@@ -26,8 +26,7 @@ DevOps       CI/CD · Linux · Ansible · Git
 |---------|-------------|
 | [cv](https://predorock.github.io/cv) | My print-friendly, minimalist CV — built with TypeScript |
 | [pytropolis](https://github.com/predorock/pytropolis) | Python script execution via API in isolated virtual environments |
-| [docker-ansible](https://github.com/predorock/docker-ansible) | Alpine-based multistage Ansible image for reproducible CI |
-| [localpdf.io](https://github.com/predorock/localpdf.io) | Local-first PDF tooling |
+| [cinepals](https://github.com/predorock/cinepals) | Stremio addon to swap movie & series recommendations with friends |
 
 ## Certifications
 
