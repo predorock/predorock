@@ -1,6 +1,6 @@
 # Hey, I'm Marco 👋
 
-**Senior Software Engineer & Tech Lead** based in [Milan, Italy](https://www.google.com/maps/place/Milano).
+**Senior Software Engineer & Tech Lead** — Digital Nomad, working remotely across time zones 🌍.
 
 Senior Software Engineer and Tech Lead with 10+ years of experience building full-stack products and cloud infrastructure across start-ups and consultancies. Proven track record architecting AI-powered platforms, designing scalable AWS cloud architectures (Kubernetes, Terraform, microservices), and leading development teams to ship robust, high-quality software without sacrificing delivery speed. Extensive remote-work experience collaborating with distributed teams across Europe.
 
