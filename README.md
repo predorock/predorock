@@ -14,11 +14,11 @@ Senior Software Engineer and Tech Lead with 10+ years of experience building ful
 
 ```
 Languages       JavaScript · TypeScript · Java · Bash
-Frontend        React · Next.js · Angular
-Backend         Node.js · Express.js · Bun · Micronaut · Gradle · REST APIs
-Cloud & DevOps  Microservices · AWS · Amazon ECS · Amazon EKS · AWS Lambda · Kubernetes · Terraform · Ansible · Docker · Podman · CI/CD · Jenkins · Azure Pipelines · Git · Linux Administration
-AI              OpenAI API · LLM Integration
-Leadership      Team Leadership · Software Architecture
+Frontend        HTML5 · CSS · React · Angular · Next.js · RxJS · Tailwind CSS · Cypress · Playwright
+Backend         Node.js · Express.js · Bun · Spring Boot · Micronaut · Maven · Gradle · Flowable · BPMN · REST APIs · Azure
+Cloud & DevOps  Microservices · OAuth · PostgreSQL · MySQL · SQL · AWS · Amazon ECS · Amazon EKS · AWS Lambda · Kubernetes · Terraform · Ansible · Docker · Podman · CI/CD · Jenkins · Azure Pipelines · Prometheus · Observability · Linux Administration · Git · OpenTelemetry · Azure AD
+AI              Python · OpenAI API · Anthropic API · LLM · LLM Integration · Agentic Architectures
+Leadership      Team Leadership · Software Architecture · Agile · Technical Interviewing · Solution Design · Stakeholder Management · Estimation · Mentoring · Pair Programming · Code Review · Developer Onboarding · Technical Pre-Sales · Requirements Analysis · Cloud Cost Optimization
 ```
 
 ## Some things I've built
